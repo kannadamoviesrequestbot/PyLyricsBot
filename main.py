@@ -22,8 +22,8 @@ STARTPIC = "https://i.imgur.com/gv2SzKr.jpg"
 START_BTN = ikb(
     [
         [
-            ("💬 Updates Channel", "t.me/damiensoukara", "url"),
-            ("🗣 Support Group", "t.me/damienhelp", "url"),
+            ("💬 Updates Channel", "t.me/BAGURUJOINAGUUKANNADAMOVIES_17", "url"),
+            ("🗣 Support Group", "t.me/searchkannadamovies", "url"),
         ],
         [
             ("👾 About", "about"),
@@ -32,11 +32,11 @@ START_BTN = ikb(
         ],
         [
             (
-                "🔗 Source Code",
-                "https://github.com/AmineSoukara/PyLyricsBot/fork",
+                "🔗 Editor",
+                "https://t.me/beereshbanakards",
                 "url",
             ),
-            ("👨‍💻 Developer", "https://bio.link/aminesoukara", "url"),
+            ("👨‍💻 Developer", "https://t.me/beereshbanakards", "url"),
         ],
     ]
 )
