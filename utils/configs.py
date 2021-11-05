@@ -31,12 +31,12 @@ class Var(object):
 class Tr(object):
 
     START_TEXT = """
-👋 Hi ! {} Welcome To @PyLyricsBot !
+👋 Hi ! {} Welcome To @pylyricsbotkm17bot!
 
-PyLyrics Is An [Open-Source](https://github.com/AmineSoukara/PyLyricsBot/fork) Bot That Can Help You Get Song Lyrics
+You can't add to your Channel/group[Channel](https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17) Bot That Can Help You Get Song Lyrics
 """
 
-    ABOUT_TEXT = """🤖 **My Name:** [Py Lyrics](t.me/PyLyricsBot)
+    ABOUT_TEXT = """🤖 **My Name:** [pylyricsbotkm17bot](t.me/pylyricsbotkm17bot)
 
 📝 **Language:** [Python 3](https://www.python.org)
 
@@ -44,21 +44,19 @@ PyLyrics Is An [Open-Source](https://github.com/AmineSoukara/PyLyricsBot/fork) B
 
 📡 **Hosted On:** [Heroku](heroku.com)
 
-👨‍💻 **Developer:** [Amine Soukara](t.me/AmineSoukara)
+👨‍💻 **Developer:** [beereshbanakards](t.me/beereshbanakards)
 
-💡 **Source Code:** [Github](https://github.com/AmineSoukara/PyLyricsBot/fork)
+💡 **Join channel:** [Channel](https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17)
 
-👥 **Support Group:** [Damien Help](https://t.me/DamienHelp)
+👥 **Support Group:** [searchkannadamovies](https://t.me/searchkannadamovies)
 
-📢 **Updates Channel:** [Damien Soukara](https://t.me/DamienSoukara)
+📢 **Updates Channel:** [KannadAMovieS](https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17)
 
 
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+Made with ❤ by @beereshbanakards  
 """
 
     HELP_TEXT = """💡 Just Send Me The Name Of The Song.  That's it
-
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
 """
 
     ERR_TEXT = "⚠️ Genius API Not Found"
